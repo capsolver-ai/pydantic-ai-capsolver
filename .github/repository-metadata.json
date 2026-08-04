@@ -1,0 +1,20 @@
+{
+  "name": "pydantic-ai-capsolver",
+  "owner": "capsolver-ai",
+  "description": "Official typed CapSolver tools for Pydantic AI agents, dependencies, and durable workflows.",
+  "homepage": "https://docs.capsolver.com/en/guide/ai/capsolver-for-ai-agents/",
+  "topics": [
+    "capsolver",
+    "pydantic-ai",
+    "pydantic",
+    "ai-agents",
+    "captcha",
+    "typed-python",
+    "agent-tools",
+    "python",
+    "llm",
+    "browser-automation"
+  ],
+  "visibility": "public",
+  "status": "next-wave"
+}
