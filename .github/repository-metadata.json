@@ -1,20 +1,9 @@
 {
   "name": "pydantic-ai-capsolver",
   "owner": "capsolver-ai",
-  "description": "Official typed CapSolver tools for Pydantic AI agents, dependencies, and durable workflows.",
-  "homepage": "https://docs.capsolver.com/en/guide/ai/capsolver-for-ai-agents/",
-  "topics": [
-    "capsolver",
-    "pydantic-ai",
-    "pydantic",
-    "ai-agents",
-    "captcha",
-    "typed-python",
-    "agent-tools",
-    "python",
-    "llm",
-    "browser-automation"
-  ],
-  "visibility": "public",
-  "status": "next-wave"
+  "description": "Runnable Pydantic AI examples using the CapSolver Agent library.",
+  "homepage": "https://docs.capsolver.com/en/guide/ai/agent-tools/",
+  "topics": ["capsolver", "pydantic-ai", "pydantic", "ai-agents", "agent-tools", "captcha", "examples", "python", "llm", "function-calling"],
+  "visibility": "private",
+  "status": "demo"
 }

@@ -1,5 +1,5 @@
 # Examples
 
-Examples must be runnable and safe to share. Copy .env.example to .env, provide your own keys, and use only pages and accounts you are authorized to automate.
+`quickstart.py` registers two async functions with Pydantic AI's `@agent.tool_plain` decorator. Both call the shared CapSolver Agent executor.
 
-Released adapters should provide minimal setup, token mode, browser recovery where applicable, and structured error handling.
+This is a demo repository and does not publish `pydantic-ai-capsolver`.

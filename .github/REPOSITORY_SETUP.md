@@ -1,23 +1,9 @@
 # GitHub repository setup
 
-## About
+- Description: `Runnable Pydantic AI examples using the CapSolver Agent library.`
+- Website: `https://docs.capsolver.com/en/guide/ai/agent-tools/`
+- Visibility: `Private` until review is complete
+- Type: examples only; no PyPI publishing
+- Required check: `Demo checks`
 
-**Description**
-+Official typed CapSolver tools for Pydantic AI agents, dependencies, and durable workflows.
-
-**Website**
-+https://docs.capsolver.com/en/guide/ai/capsolver-for-ai-agents/
-
-**Topics**
-+capsolver, pydantic-ai, pydantic, ai-agents, captcha, typed-python, agent-tools, python, llm, browser-automation
-
-**Suggested settings**
-
-- Default branch: `main`
-- Enable Issues and Discussions
-- Enable secret scanning and Dependabot alerts
-- Require CI before merging to `main`
-- Enable squash merging and automatically delete merged branches
-- Configure PyPI trusted publishing only after the package name is reserved
-
-**Readiness:** `next-wave`
+Topics: `capsolver`, `pydantic-ai`, `pydantic`, `ai-agents`, `agent-tools`, `captcha`, `examples`, `python`, `llm`, `function-calling`.
